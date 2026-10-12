@@ -4,7 +4,7 @@
   </a>
 </p>
 
-Hi there, I'm Jordan Batinga 👋 💻🎮
+           Hi there, I'm Jordan Batinga 💻🎮
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=BSIT+Student+%26+Developer;Lead+Game+%26+Graphics+Designer;C%2B%2B+%26+OOP+Systems+Dev;3D+Asset+Artist+%26+Modeler" alt="Typing SVG" />
@@ -57,7 +57,7 @@ Game & 3D Development
 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Danxietyy-&show_icons=true&theme=tokyonight&hide_border=true" alt="Jordan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Danxietyy&show_icons=true&theme=tokyonight&hide_border=true" alt="Danxietyy's GitHub Stats" />
 </p>
 
 ---
