@@ -1,6 +1,8 @@
-<a href="https://danxietyy.github.io/Portfolio/" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_Live_Portfolio-Visit_My_Site-6366f1?style=for-the-badge&logo=safari&logoColor=white" alt="Live Portfolio">
-</a>
+<p align="center">
+  <a href="https://danxietyy.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/🌐_View_Live_Portfolio-6366F1?style=for-the-badge&logoColor=white" alt="Live Portfolio" />
+  </a>
+</p>
 
                                           Hi there, I'm Jordan Batinga.
 
