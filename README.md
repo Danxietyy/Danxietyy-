@@ -1,7 +1,7 @@
 # Hi there, I'm Jordan Batinga 👋 🎮🎨
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Lead+Game+%26+Graphics+Designer;3D+Asset+Artist+%26+Modeler;BSIT STUDENT;C%2B%2B+%26+Web+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Lead+Game+%26+Graphics+Designer;3D+Asset+Artist+%26+Modeler;BSIT+STUDENT;C%2B%2B+%26+Web+Developer" alt="Typing SVG" />
 </p>
 
 ---
