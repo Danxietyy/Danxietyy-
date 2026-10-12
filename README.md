@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://danxietyy.github.io/Portfolio/">
+  <a href="https://github.com/Danxietyy/Portfolio">
     <img src="https://img.shields.io/badge/🌐_View_Live_Portfolio-6366F1?style=for-the-badge&logoColor=white" alt="Live Portfolio" />
   </a>
 </p>
