@@ -1,3 +1,5 @@
+[![Live Portfolio](https://img.shields.io/badge/🌐_View_Live_Portfolio-6366F1?style=for-the-badge&logoColor=white)](https://danxietyy.github.io/Portfolio/)
+
 # Hi there, I'm Jordan Batinga 👋 🎮🎨
 
 <p align="center">
