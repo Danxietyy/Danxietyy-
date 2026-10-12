@@ -14,11 +14,11 @@
 
 🚀 About Me
 
-- 💻 BSIT Student & Developer focused on software engineering, OOP systems, and web technologies.
-- 🎮 Lead Game & Graphics Designer crafting MMORPG digital assets and themed game event graphics.
-- 🎨 3D Asset Artist: Sculpting, modeling, rigging, and animating low-poly character meshes and weapon props.
-- 🛠️ Tech Stack: C++, HTML5, CSS3, JavaScript, Git & GitHub, Blender, Prisma3D, Ibis Paint X.
-- 🎯 Hobbies: Home Calisthenics, Acoustic Guitar, Mobile Legends (Mythical Immortal), and PokeMMO.
+- 💻 BSIT Student & Developer focused on software engineering, C++ OOP systems, and modern web development.
+- 🎨 Lead Game & Graphics Designer creating custom pixel cosmetics, vanities, and character outfits for MMORPG projects.
+- 🖌️ Pixel Artist & Modeler: Crafting pixel graphics using Aseprite & Pyxel Edit, plus low-poly 3D character meshes and weapon props in Blender & Prisma3D.
+- 🛠️ Tech Stack: C++, HTML5, CSS3, JavaScript, Git, GitHub, Blender, Prisma3D, Aseprite, Pyxel Edit.
+- 🎯 Personal Pursuits: Acoustic Guitar/Singing, and Creative Pixel Design.
 
 ---
 
@@ -31,7 +31,9 @@ Programming & Systems
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-Game & 3D Development
+Pixel Art & 3D Development
+![Aseprite](https://img.shields.io/badge/Aseprite-7D5295?style=for-the-badge&logo=aseprite&logoColor=white)
+![Pyxel Edit](https://img.shields.io/badge/Pyxel_Edit-000000?style=for-the-badge&logo=artstation&logoColor=4A90E2)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 ![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-00A2FF?style=for-the-badge&logo=roblox&logoColor=white)
 ![Prisma3D](https://img.shields.io/badge/Prisma3D-4A90E2?style=for-the-badge&logo=3d&logoColor=white)
@@ -43,21 +45,21 @@ Game & 3D Development
 - 🏛️ Barangay Incident & Blotter System  
   C++ Developer — Console application featuring object-oriented programming (OOP) and file persistence for local incident record management.
 
-- 🎃 MMORPG Event Graphics & Assets  
-  Lead Game & Graphics Designer — Designed dark-fantasy 3D assets, UI elements, and promotional artwork for seasonal game updates.
+- 🧙‍♂️ MMORPG Cosmetics & Vanity Designs 
+  *Lead Game & Graphics Designer* — Designed custom pixel game cosmetics, character vanities, and equipment graphics using Aseprite & Pyxel Edit for seasonal game updates.
 
-- ⚔️ Custom Roblox 3D Weapons & Avatars 
+- ⚔️ Custom Roblox 3D Weapons & Avatars  
   3D Artist / Modeler — High-quality 3D character meshes, rigged weapon props, and low-poly assets using Blender & Prisma3D.
 
-- 🌐 Interactive Web Portfolio & Generator  
-  Frontend Developer — Single-file responsive web app featuring dual modes, live markdown preview parsing, and interactive modal windows.
+- 🌐 Interactive Web Portfolio  
+  *Frontend Developer* — Single-file responsive web app featuring custom glassmorphism design, skill filtering, and project details.
 
 ---
 
 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Danxietyy&show_icons=true&theme=tokyonight&hide_border=true" alt="Danxietyy's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Danxietyy&show_icons=true&theme=tokyonight&hide_border=true" alt="Jordan's GitHub Stats" />
 </p>
 
 ---
@@ -65,10 +67,10 @@ Game & 3D Development
 📫 Connect With Me
 
 - Location: San Felipe, Zambales, Philippines 🇵🇭
-- GitHub: [@Danxietyy-](https://github.com/Danxietyy-)
+- GitHub: [@Danxietyy](https://github.com/Danxietyy/Danxietyy-)
 
 ---
 
 <p align="center">
-  <i>"Combining software engineering principles with creative 3D artistry and game design."</i>
+  <i>"Combining software engineering principles with Aseprite pixel art cosmetics and 3D design."</i>
 </p>
